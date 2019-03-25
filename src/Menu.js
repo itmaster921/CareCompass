@@ -97,16 +97,6 @@ export default class Menu extends Component {
 							About this app
 						</Text>
 					</TouchableOpacity>
-					<TouchableOpacity style={styles.menuItem} onPress={() => this.goBackToOnboarding()}>
-						<Text light bold color={Colors.white} style={styles.menuItemText}>
-							Welcome slides
-						</Text>
-					</TouchableOpacity>
-					<TouchableOpacity style={styles.menuItem} onPress={() => this.goto('DiscussionStarter')}>
-						<Text light bold color={Colors.white} style={styles.menuItemText}>
-							Use discussion starter
-						</Text>
-					</TouchableOpacity>
 					<TouchableOpacity style={styles.menuItem} onPress={() => this.goto('UserGuides')}>
 						<Text light bold color={Colors.white} style={styles.menuItemText}>
 							Using the app

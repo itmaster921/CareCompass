@@ -67,11 +67,6 @@ export const navigateToUrl = (url, navigation) => {
       pageName: ""
     },
     {
-      url: "https://cc-api.techequipt.com.au/app/about-this-app",
-      routeName: "Page",
-      pageName: "about_this_app"
-    },
-    {
       url: "https://cc-api.techequipt.com.au/app/looking-after-yourself",
       routeName: "Page",
       pageName: "looking_after_yourself"

@@ -58,5 +58,3 @@ codesigndoc_exports
 *.orig
 
 .vscode/
-
-ios/palliative_care_app\.xcodeproj/project\.pbxproj
