@@ -12,7 +12,7 @@ import Text from '@text'
 import { MediaQueryStyleSheet } from "react-native-responsive";
 import { deviceWidth, deviceHeight } from "@ResponsiveDimensions";
 import Icon from 'react-native-vector-icons/FontAwesome';
-import Switch from "./Switch";
+// import Switch from "./Switch";
 
 export default class Choice extends Component {
     state={

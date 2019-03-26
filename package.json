@@ -22,6 +22,7 @@
     "react-native-render-html": "^3.10.0",
     "react-native-responsive": "^1.0.2",
     "react-native-responsive-dimensions": "^1.0.2",
+    "react-native-switch": "^1.5.0",
     "react-native-sortable-listview": "^0.2.8",
     "react-native-sound": "^0.10.9",
     "react-native-spinkit": "^1.1.1",
