@@ -1,10 +1,11 @@
 /**
  * @providesModule @footer
  */
-import React, { Component } from "react";
-import { StyleSheet, Platform, View, Image, Dimensions } from "react-native";
-import { Colors } from "@theme";
-import Text from "@text";
+import React, {Component} from 'react';
+import {StyleSheet,Platform,View,Image,Dimensions } from "react-native";
+import {Colors} from '@theme'
+import Text from '@text'
+
 const { width, height } = Dimensions.get("window"); // Detect screen width and heightonsive screen UI
 
 export default props => {
