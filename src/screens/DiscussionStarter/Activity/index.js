@@ -154,7 +154,7 @@ export default class Activity extends Component {
 							value={answerData ? answerData : ''}
 							multiline={true}
 							numberOfLines={4}
-							onBlur={(e) => this.onChangedAnswer(questionIndex, e.nativeEvent.text)}
+							onCahngeText={(e) => this.onChangedAnswer(questionIndex, e.nativeEvent.text)}
 						/>
 					) : question_type == 'choices' ? (
 						<Choices
